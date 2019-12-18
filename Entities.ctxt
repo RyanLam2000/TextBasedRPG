@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Entities
+comment1.params=hp\ s
+comment1.target=Entities(int,\ int)
+comment2.params=health
+comment2.target=void\ changeMaxHealth(int)
+comment3.params=tempHealth
+comment3.target=void\ changeHealth(int)
+comment4.params=
+comment4.target=int\ getMaxHealth()
+comment5.params=
+comment5.target=int\ getHealth()
+comment6.params=
+comment6.target=int\ getSpeed()
+comment7.params=s
+comment7.target=void\ setSpeed(int)
+comment8.params=
+comment8.target=int\ getTempSpeed()
+comment9.params=ts
+comment9.target=void\ setTempSpeed(int)
+numComments=10

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FightRoom
+comment1.params=r\ c
+comment1.target=FightRoom(int,\ int)
+comment2.params=b
+comment2.target=void\ setIsBossRoom(boolean)
+comment3.params=p
+comment3.target=void\ action(Character)
+comment4.params=p
+comment4.target=void\ playerMove(Character)
+comment5.params=p\ mon
+comment5.target=void\ foundHealth(Character,\ Monster)
+comment5.text=\r\n\ foundHealth\ randomly\ decides\ if\ the\ player\ finds\ some\ healing\ after\ each\ combat\r\n
+comment6.params=p\ mon
+comment6.target=void\ foundGold(Character,\ Monster)
+comment6.text=\r\n\ foundGold\ occurs\ after\ the\ fight\ and\ if\ the\ player\ is\ still\ alive.\ It\ is\ used\ to\ determine\ how\ much\ gold\ a\ player\ gets\ after\ each\ fight.\r\n
+numComments=7

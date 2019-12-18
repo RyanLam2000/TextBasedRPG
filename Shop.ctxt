@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Shop
+comment1.params=r\ c
+comment1.target=Shop(int,\ int)
+comment2.params=p
+comment2.target=void\ action(Character)
+numComments=3

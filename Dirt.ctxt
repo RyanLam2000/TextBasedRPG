@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Dirt
+comment1.params=
+comment1.target=Dirt()
+comment1.text=\r\n\ The\ whole\ point\ of\ the\ dirt\ item\ is\ to\ create\ a\ prevention\ in\ the\ case\ that\ someone\ the\ player\ gains\ EVERY\ ITEM\ in\ the\ game.\r\n\ Any\ event\ where\ the\ player\ gains\ an\ item\ after\ obtaining\ all\ of\ them\ will\ result\ in\ the\ player\ gaining\ dirt.\ It\ does\r\n\ absolutely\ nothing\ but\ congrats\ to\ the\ person\ who\ managed\ to\ get\ all\ the\ items.\r\n
+comment2.params=p
+comment2.target=void\ effect(Character)
+numComments=3

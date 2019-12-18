@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ItemPool
+comment1.params=
+comment1.target=void\ fillWeaponPool()
+comment2.params=
+comment2.target=void\ fillPassivePool()
+comment3.params=
+comment3.target=Items\ spawnItem()
+comment3.text=\r\n\ Spawns\ the\ item\ for\ either\ Event\ Rooms\ or\ Item\ Rooms.\ It\ takes\ the\ item\r\n\ from\ a\ pool\ of\ items\ and\ then\ when\ it\ spawns,\ it\ removes\ the\ item\ from\r\n\ it's\ associated\ pool\ so\ that\ the\ item\ can\ not\ spawn\ again.\ In\ the\ case\r\n\ that\ all\ the\ pools\ are\ empty\ (as\ in\ someone\ managed\ to\ get\ all\ the\ items)\r\n\ then\ the\ game\ spawns\ the\ passive\ item\ Dirt\ that\ does\ absolutely\ nothing\r\n\ but\ acts\ as\ a\ placeholder\ to\ prevent\ the\ game\ from\ breaking.\r\n
+comment4.params=
+comment4.target=Weapons\ spawnWep()
+comment5.params=
+comment5.target=PassiveItems\ spawnPassive()
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MissingMob
+comment1.params=
+comment1.target=MissingMob()
+comment1.text=\r\n\ Reference\ to\ Pokemon's\ MissingNo.\ In\ reality\ this\ mob\ should\ NEVER\r\n\ be\ spawned\ so\ if\ it\ is\ ever\ spawned,\ something\ either\ went\ wrong\r\n\ or\ someone\ broke\ into\ the\ files\ and\ changed\ stuff.\r\n
+numComments=2

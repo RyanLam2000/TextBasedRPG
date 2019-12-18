@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Items
+comment1.params=name\ desc\ b
+comment1.target=Items(java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getItemName()
+comment3.params=
+comment3.target=java.lang.String\ getItemDesc()
+comment4.params=
+comment4.target=boolean\ getHasSeen()
+comment5.params=b
+comment5.target=void\ changeHasSeen(boolean)
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=r\ c
+comment1.target=Room(int,\ int)
+comment2.params=
+comment2.target=int\ getRow()
+comment3.params=
+comment3.target=int\ getCol()
+comment4.params=
+comment4.target=boolean\ getBeenBefore()
+comment5.params=b
+comment5.target=void\ setBeenBefore(boolean)
+comment6.params=p
+comment6.target=void\ action(Character)
+comment6.text=\ \ Action\ of\ each\ subclass\ of\ room\ will\ be\ created\ in\ the\ subclasses.\ Actions\ refer\ to\ battles\r\n\ \ in\ fight\ rooms,\ events\ in\ event\ rooms,\ shop\ in\ shops,\ etc.\r\n
+numComments=7

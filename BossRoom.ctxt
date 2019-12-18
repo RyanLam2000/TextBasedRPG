@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=BossRoom
+comment1.params=r\ c
+comment1.target=BossRoom(int,\ int)
+numComments=2

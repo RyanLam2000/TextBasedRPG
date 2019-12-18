@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PassiveItems
+comment1.params=name\ desc\ cU\ b
+comment1.target=PassiveItems(java.lang.String,\ java.lang.String,\ boolean,\ boolean)
+comment2.params=
+comment2.target=boolean\ getConstantUse()
+comment3.params=b
+comment3.target=void\ setConstantUse(boolean)
+comment4.params=p
+comment4.target=void\ effect(Character)
+numComments=5
